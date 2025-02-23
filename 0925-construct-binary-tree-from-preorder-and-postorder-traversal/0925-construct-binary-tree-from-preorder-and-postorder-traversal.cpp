@@ -72,11 +72,11 @@ public:
 
     TreeNode* constructFromPrePost(vector<int>& preorder, vector<int>& postorder) {
         int n = preorder.size();
-        map<int,vector<int>>LR;
 
         vector<int>used(n,0);
 
         idenfity_used_node(postorder, used, preorder[0]);
+        
         TreeNode* root = new TreeNode(preorder[0]);
 
         for(int i = 1; i<n; i++)
@@ -87,24 +87,8 @@ public:
 
             add_new_node(root, next_used_node, node);
 
-            LR[next_used_node].push_back(node);
             idenfity_used_node(postorder, used, node);
-        }
-
-        // for(auto it : LR)
-        // {
-        //     vector<int>ar = it.second;
-        //     cout<<it.first<<" -> ";
-        //     for(int i = 0; i<ar.size(); i++)
-        //     {
-        //         cout<<ar[i]<<" ";
-        //     }
-        //     cout<<endl;
-        // }
-
-        
-
-        
+        }       
 
         return root;
     }
