@@ -63,10 +63,10 @@ public:
             new_bob = parent_sequence[new_bob];
         }
 
-        for(int i = 0; i<=n; i++)
-        {
-            cout<<i<<" "<<amount[i]<<endl;
-        }
+        // for(int i = 0; i<=n; i++)
+        // {
+        //     cout<<i<<" "<<amount[i]<<endl;
+        // }
 
         dfs(0, -1, amount[0], amount);
 
