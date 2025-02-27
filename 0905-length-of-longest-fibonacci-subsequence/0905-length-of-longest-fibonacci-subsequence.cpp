@@ -1,57 +1,49 @@
 class Solution {
 public:
     unordered_map<int,int>mp;
+    int dp[1001][1001];
+    int ans = 0;
+    int f(int ci, int bi, vector<int>&arr)
+    {
+        if(dp[ci][bi]!=-1)return dp[ci][bi];
+        int c = arr[ci], b = arr[bi];
+        int a = c-b;
+        int len = 2;
+        if(a>=b)return dp[ci][bi] = len;
+        
+        if(mp.count(a))
+        {
+            int ind_a = mp[a];
+            len = f(bi, ind_a, arr)+1;
+            ans = max(ans, len);
+        }
+        return dp[ci][bi] = len;
+
+    }
+
+
+
     int lenLongestFibSubseq(vector<int>& arr) {
         mp.clear();
+        memset(dp, -1, sizeof(dp));
         int n = arr.size();
         for(int i = 0; i<n; i++)
         {
-            mp[arr[i]] = i+1;
+            mp[arr[i]] = i;
         }
-        int ans = 0;
-        for(int i = 0; i<n-2; i++)
-        {
-            int number_left = n-i;
-            if(ans>number_left)break;
-            int a = arr[i];
-            for(int j = i+1; j<n-1; j++)
-            {
-                int number_left2 = n-j;
-                int temp = 2;
-                if(temp+number_left2<ans)break;
-                a = arr[i];
-                int b = arr[j];
-                //temp++;
-                int sum = a+b;
-                if(sum>arr[n-1]) break;
-                if(mp[sum]==0)
-                {
-                    continue;
-                }
-                
-                temp++;
-                //cout<<a<<" "<<b<<" "<<sum<<" "<<temp<<endl;
-                int ind_sum = mp[sum]-1;
-                while(ind_sum<n)
-                {
-                    a = b;
-                    b = sum;
-                    sum = a+b;
-                    //cout<<a<<" "<<b<<" "<<sum<<endl;
-                    if(mp[sum]==0)
-                    {
-                        break;
-                    }
-                    else
-                    {
-                        temp++;
-                        ind_sum = mp[sum]-1;
-                    }
-                }
-                ans = max(ans, temp);
+        //A[i] = A[i-2] + A[i-1] 
+        //a, b, c .....
+        
 
+        for(int bi = 1; bi<n-1; bi++)
+        {
+            for(int ci = bi+1; ci<n; ci++)
+            {
+                f(ci, bi, arr);
             }
         }
+
         return ans;
+        
     }
 };
