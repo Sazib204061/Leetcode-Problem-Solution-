@@ -32,7 +32,8 @@ public:
             mp[arr[i]] = i;
         }
         //A[i] = A[i-2] + A[i-1] 
-        //a, b, c .....
+        //a, b, c ..... 
+        //a = c-b
         
 
         for(int bi = 1; bi<n-1; bi++)
