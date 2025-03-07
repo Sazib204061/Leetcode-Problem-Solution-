@@ -73,6 +73,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -99,4 +100,8 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3227-find-missing-and-repeated-values) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
