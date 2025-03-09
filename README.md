@@ -15,6 +15,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3227-find-missing-and-repeated-values) |
+| [3483-alternating-groups-ii](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +110,5 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
