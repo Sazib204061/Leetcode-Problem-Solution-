@@ -96,6 +96,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -132,4 +133,8 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2308-divide-array-into-equal-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
