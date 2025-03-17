@@ -44,6 +44,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0112-path-sum) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -51,12 +52,14 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0112-path-sum) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0112-path-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Design
@@ -66,6 +69,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0112-path-sum) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
