@@ -5,6 +5,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0134-gas-station) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -144,4 +145,8 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
