@@ -59,12 +59,14 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0112-path-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2793-count-the-number-of-complete-components) |
 ## Design
 |  |
 | ------- |
@@ -84,6 +86,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2793-count-the-number-of-complete-components) |
 ## Math
 |  |
 | ------- |
@@ -157,4 +160,8 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
