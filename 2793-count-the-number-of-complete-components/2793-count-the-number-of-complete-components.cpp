@@ -6,7 +6,7 @@ public:
     void dfs(int u)
     {
         vis[u] = true;
-        cout<<u<<endl;
+        //cout<<u<<endl;
         numberOfNode++;
         for(auto v : graph[u])
         {
@@ -17,7 +17,6 @@ public:
             }
         }
     }
-
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
         for(int i = 0; i<edges.size(); i++)
         {
@@ -31,15 +30,12 @@ public:
             {
                 dfs(node);
                 //After DFS
-
                 numberOfEdge/=2;
                 int expectedEdge = (numberOfNode*(numberOfNode-1))/2;
-
                 if(expectedEdge==numberOfEdge)
                 {
                     ans++;
                 }
-
                 numberOfNode = 0;
                 numberOfEdge = 0;
 
