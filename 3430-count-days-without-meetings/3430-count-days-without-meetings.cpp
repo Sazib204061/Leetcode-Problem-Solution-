@@ -7,19 +7,13 @@ public:
         {
             int st = meetings[i][0];
             int ed = meetings[i][1];
-
-            if(st<=end)
-            {
-                end = max(end, ed);
-                continue;
-            }
-            else
+            if(st>end)
             {
                 ans+=(st-end-1);
-                end = max(end, ed);
             }
+            end = max(end, ed);
         }
-        ans+=(days-end);
+        ans+=(days-end);  //edge case
         return ans;
     }
 };
