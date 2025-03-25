@@ -23,6 +23,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [3430-count-days-without-meetings](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3483-alternating-groups-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,4 +170,5 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [3430-count-days-without-meetings](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 <!---LeetCode Topics End-->
