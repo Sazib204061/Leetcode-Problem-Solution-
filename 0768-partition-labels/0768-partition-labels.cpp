@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> partitionLabels(string s) {
-        map<char, int>lastOccuranceIndex;
+        unordered_map<char, int>lastOccuranceIndex;
         int n = s.size();
         for(int i = 0; i<n; i++)
         {
