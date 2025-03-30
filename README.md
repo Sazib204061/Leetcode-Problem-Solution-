@@ -27,6 +27,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -38,6 +39,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## String
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2107-find-unique-binary-string) |
@@ -110,6 +112,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0768-partition-labels](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -158,6 +161,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0134-gas-station) |
+| [0768-partition-labels](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0768-partition-labels) |
 ## Queue
 |  |
 | ------- |
