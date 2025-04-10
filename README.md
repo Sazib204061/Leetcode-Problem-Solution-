@@ -76,6 +76,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0225-implement-stack-using-queues) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
@@ -167,6 +168,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0225-implement-stack-using-queues) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |
@@ -177,4 +179,8 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | ------- |
 | [3430-count-days-without-meetings](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
