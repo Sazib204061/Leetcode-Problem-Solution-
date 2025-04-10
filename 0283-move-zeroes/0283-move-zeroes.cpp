@@ -1,39 +1,29 @@
 class Solution {
 public:
-    int NextZeroIndex(int currIndex, vector<int>&nums)
-    {
-        for(int i = currIndex+1; i<nums.size(); i++)
-        {
-            if(nums[i]==0)
-            {
-                return i;
-            }
-        }
-        return -1;
-    }
-    int NextNonZeroIndex(int currIndex, vector<int>&nums)
-    {
-        for(int i = currIndex+1; i<nums.size(); i++)
-        {
-            if(nums[i]!=0)
-            {
-                return i;
-            }
-        }
-        return -1;
-    }
     void moveZeroes(vector<int>& nums) {
-        int sizeOfArray = nums.size();
-        int zeroIndex = -1, nonZeroIndex = -1;
-        while(1)
+        int arraySize = nums.size(), indexOfZero = 0, indexOfNonZero = 0;
+        while(indexOfZero < arraySize)
         {
-            zeroIndex = NextZeroIndex(zeroIndex, nums);
-            if(zeroIndex==-1)break;
-            nonZeroIndex = NextNonZeroIndex(zeroIndex, nums);
-            if(nonZeroIndex==-1)break;
-            
-            swap(nums[zeroIndex], nums[nonZeroIndex]);
+            if(nums[indexOfZero]==0)
+            {
+                while(indexOfNonZero < arraySize)
+                {
+                    if(nums[indexOfNonZero]!=0)
+                    {
+                        swap(nums[indexOfZero], nums[indexOfNonZero]);
+                        break;
+                    }
+                    else
+                    {
+                        indexOfNonZero++;
+                    }
+                }
+            }
+            indexOfZero++;
+            if(indexOfZero>indexOfNonZero)
+            {
+                indexOfNonZero = indexOfZero;
+            }
         }
-
     }
 };
