@@ -6,6 +6,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0134-gas-station) |
+| [0283-move-zeroes](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0283-move-zeroes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -115,6 +116,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0283-move-zeroes](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2551-apply-operations-to-an-array) |
