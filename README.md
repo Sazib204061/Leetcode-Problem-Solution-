@@ -5,6 +5,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0134-gas-station) |
 | [0283-move-zeroes](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0283-move-zeroes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -185,9 +186,14 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0225-implement-stack-using-queues) |
 ## Enumeration
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2998-count-symmetric-integers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
