@@ -36,6 +36,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1500-count-largest-group) |
 | [2107-find-unique-binary-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -101,6 +102,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Math
 |  |
 | ------- |
+| [1500-count-largest-group](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2998-count-symmetric-integers](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2998-count-symmetric-integers) |
