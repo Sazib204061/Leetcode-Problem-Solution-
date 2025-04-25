@@ -10,6 +10,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [0283-move-zeroes](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0283-move-zeroes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2107-find-unique-binary-string) |
@@ -35,6 +36,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [0768-partition-labels](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1500-count-largest-group) |
@@ -118,6 +120,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Prefix Sum
 |  |
 | ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
