@@ -54,6 +54,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | ------- |
 | [0038-count-and-say](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2107-find-unique-binary-string) |
@@ -119,6 +120,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Dynamic Programming
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -136,6 +138,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0283-move-zeroes](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
