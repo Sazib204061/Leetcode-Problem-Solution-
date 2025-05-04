@@ -11,6 +11,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -39,6 +40,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -172,6 +174,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Counting
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
