@@ -12,6 +12,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
