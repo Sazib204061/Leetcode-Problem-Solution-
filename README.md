@@ -52,6 +52,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [2215-finding-3-digit-even-numbers](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2308-divide-array-into-equal-pairs) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3227-find-missing-and-repeated-values) |
@@ -67,6 +68,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [2107-find-unique-binary-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -200,6 +202,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [0134-gas-station](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0134-gas-station) |
 | [0768-partition-labels](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0768-partition-labels) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Queue
 |  |
 | ------- |
@@ -220,6 +223,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0225-implement-stack-using-queues) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Enumeration
 |  |
 | ------- |
