@@ -85,6 +85,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0112-path-sum) |
+| [0386-lexicographical-numbers](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0386-lexicographical-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -233,4 +234,8 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0084-largest-rectangle-in-histogram) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
