@@ -24,11 +24,7 @@ public:
             }
         }
 
-        if(ans)
-        {
-            //cout<<"1"<<endl;
-            return ans;
-        }
+        if(ans) return ans;
         ans = true;
         k = K;
         for(int i = 0; i<n; i++)
