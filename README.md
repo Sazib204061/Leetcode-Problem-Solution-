@@ -36,6 +36,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [3483-alternating-groups-ii](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3483-alternating-groups-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -206,6 +207,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Queue
 |  |
 | ------- |
