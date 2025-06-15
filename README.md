@@ -125,6 +125,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [1370-count-number-of-nice-subarrays](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -204,6 +205,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | ------- |
 | [0134-gas-station](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0134-gas-station) |
 | [0768-partition-labels](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0768-partition-labels) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
