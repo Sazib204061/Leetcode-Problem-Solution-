@@ -8,6 +8,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [0084-largest-rectangle-in-histogram](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0134-gas-station) |
 | [0283-move-zeroes](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0283-move-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -41,6 +42,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -177,6 +179,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0594-longest-harmonious-subsequence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -191,6 +194,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2308-divide-array-into-equal-pairs) |
@@ -227,6 +231,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0594-longest-harmonious-subsequence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2215-finding-3-digit-even-numbers) |
 | [3430-count-days-without-meetings](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
