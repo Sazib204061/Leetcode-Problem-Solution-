@@ -72,6 +72,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
 |  |
 | ------- |
