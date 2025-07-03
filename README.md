@@ -136,6 +136,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3227-find-missing-and-repeated-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Dynamic Programming
 |  |
@@ -168,6 +169,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2551-apply-operations-to-an-array) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
@@ -205,6 +207,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [2308-divide-array-into-equal-pairs](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
@@ -258,4 +261,8 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
