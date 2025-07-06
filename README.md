@@ -18,6 +18,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2215-finding-3-digit-even-numbers) |
@@ -52,6 +53,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1500-count-largest-group) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -108,6 +110,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0225-implement-stack-using-queues) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Binary Tree
 |  |
 | ------- |
