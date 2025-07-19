@@ -83,6 +83,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3396-valid-word](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3617-find-the-original-typed-string-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3931-process-string-with-special-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -182,6 +183,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2551-apply-operations-to-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3931-process-string-with-special-operations-i) |
 ## Matrix
 |  |
 | ------- |
