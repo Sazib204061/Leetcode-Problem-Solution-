@@ -14,6 +14,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -73,6 +74,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [0768-partition-labels](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -99,6 +101,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [0112-path-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0112-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0386-lexicographical-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2793-count-the-number-of-complete-components) |
@@ -268,6 +271,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Combinatorics
 |  |
 | ------- |
