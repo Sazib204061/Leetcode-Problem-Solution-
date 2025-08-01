@@ -6,6 +6,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0134-gas-station) |
 | [0283-move-zeroes](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0283-move-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0594-longest-harmonious-subsequence) |
@@ -153,6 +154,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0118-pascals-triangle) |
 | [0868-push-dominoes](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
