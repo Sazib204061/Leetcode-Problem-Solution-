@@ -33,6 +33,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [2551-apply-operations-to-an-array](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2689-rearranging-fruits](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2915-count-of-interesting-subarrays) |
@@ -64,6 +65,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2689-rearranging-fruits](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3227-find-missing-and-repeated-values) |
@@ -238,6 +240,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2689-rearranging-fruits](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Queue
@@ -254,6 +257,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0594-longest-harmonious-subsequence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2215-finding-3-digit-even-numbers) |
+| [2689-rearranging-fruits](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2689-rearranging-fruits) |
 | [3430-count-days-without-meetings](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Stack
