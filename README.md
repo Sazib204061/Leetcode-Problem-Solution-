@@ -143,6 +143,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -226,6 +227,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0231-power-of-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -290,5 +292,6 @@ If anyone has any problem understanding my code then plese knock me any time, in
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
