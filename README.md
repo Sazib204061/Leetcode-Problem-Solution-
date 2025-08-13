@@ -144,6 +144,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0326-power-of-three) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -293,5 +294,6 @@ If anyone has any problem understanding my code then plese knock me any time, in
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
