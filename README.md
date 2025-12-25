@@ -39,6 +39,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [2690-house-robber-iv](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2915-count-of-interesting-subarrays) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3227-find-missing-and-repeated-values) |
 | [3430-count-days-without-meetings](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -256,6 +257,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2689-rearranging-fruits](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Queue
 |  |
@@ -273,6 +275,7 @@ If anyone has any problem understanding my code then plese knock me any time, in
 | [1018-largest-perimeter-triangle](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/1018-largest-perimeter-triangle) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2689-rearranging-fruits](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/2689-rearranging-fruits) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3430-count-days-without-meetings](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sazib204061/Leetcode-Problem-Solution-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Stack
